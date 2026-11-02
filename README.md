@@ -9,7 +9,7 @@
 > 把零散的培训资料、店铺案例和运营经验，整理成一套可以持续更新的美团商家运营方法库。
 
 ![Meituan Operations](https://img.shields.io/badge/Agent%20Skill-Meituan%20Operations-e63946?style=for-the-badge)
-![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-16%20sources-1d3557?style=for-the-badge)
+![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-243%20documents-f5a623?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Continuously%20updated-2a9d8f?style=for-the-badge)
 
 <p align="center">
@@ -46,15 +46,31 @@ flowchart LR
 | 流量增长 | 自然流量、关键词、推广通测试和漏斗诊断 |
 | 服务口碑 | 在线咨询、评价管理、差评处理和服务闭环 |
 | 数据经营 | 经营评分、经营参谋、指标口径和实验计划 |
-| 风险控制 | 履约、虚假购买、流量炒作和评价合规检查 |
+| 收款业务 | 美团赚赚产品、支付进件、通道结算、设备交付与售后 |
+| 商户展业 | 商户筛选、拜访、异议处理、激活和持续使用 |
+| 代理经营 | 授权与合同、收益模型、对账、成本和承诺边界 |
+| 风险控制 | 履约、虚假购买、流量炒作、评价和收款业务合规检查 |
 | 客户方案 | 诊断、优先级、负责人、截止时间和成功指标 |
+
+## 本次更新：美团赚赚业务知识
+
+2026-11-02 使用 `book-to-skill` 合并了美团赚赚项目中的 227 份去重业务文档，并新增以下能力：
+
+- 区分码牌、音箱、扫码王、POS、扫码点餐、收款单与钱多多Plus
+- 支付进件、通道、结算、认证、设备绑定和真实交易验收
+- 商户筛选、邀约、价值传递、设备交付与运营回访
+- 代理招募、合同审查、收益五分法和盈亏边界
+- 半月经营复盘、商户留存、结算对账和公司净留存
+- 自媒体内容获客、案例授权与业务转化归因
+
+公开版本只保留综合方法和证据边界，不包含原始账单、可识别商户信息或完整第三方课件。
 
 ## Skill 目录
 
 `skill/` 是可直接安装或复制到 Agent Skills 目录的完整 skill：
 
 - `SKILL.md`：核心框架和章节路由
-- `chapters/`：7 个专题章节
+- `chapters/`：15 个专题章节
 - `glossary.md`：运营术语表
 - `patterns.md`：可复用方法与反模式
 - `cheatsheet.md`：装修、组品、投放和复盘速查表
@@ -77,4 +93,4 @@ skill 会区分平台规则、培训方法、门店事实和待验证推断。�
 
 ## 来源与更新
 
-当前版本基于 16 份用户提供的美团运营 Markdown 资料生成。新增课程、截图摘录、行业案例或后台数据后，可继续折入 skill，更新章节、术语和速查表。
+当前版本基于原有 16 份美团运营资料和新增 227 份美团赚赚去重业务文档生成。新增课程、截图摘录、行业案例或后台数据后，可继续折入 skill，更新章节、术语和速查表。
