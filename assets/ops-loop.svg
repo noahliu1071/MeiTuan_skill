@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" role="img" aria-labelledby="title">
   <title id="title">门店运营增长闭环</title>
   <defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#e63946"/><stop offset="1" stop-color="#2a9d8f"/></linearGradient></defs>
-  <rect width="900" height="170" rx="24" fill="#fff8f6" stroke="#f2d8d2"/>
+  <rect width="900" height="170" rx="24" fill="#fffaf0" stroke="#f2d59b"/>
   <g font-family="Microsoft YaHei, PingFang SC, sans-serif" text-anchor="middle">
-    <g fill="#fff" stroke="#e63946" stroke-width="3"><circle cx="105" cy="78" r="48"/><circle cx="285" cy="78" r="48"/></g>
-    <g fill="#fff" stroke="#f4a261" stroke-width="3"><circle cx="465" cy="78" r="48"/></g>
-    <g fill="#fff" stroke="#2a9d8f" stroke-width="3"><circle cx="645" cy="78" r="48"/><circle cx="795" cy="78" r="48"/></g>
+    <g fill="#fff" stroke="#f5a623" stroke-width="3"><circle cx="105" cy="78" r="48"/><circle cx="285" cy="78" r="48"/></g>
+    <g fill="#fff" stroke="#e9b949" stroke-width="3"><circle cx="465" cy="78" r="48"/></g>
+    <g fill="#fff" stroke="#d89100" stroke-width="3"><circle cx="645" cy="78" r="48"/><circle cx="795" cy="78" r="48"/></g>
     <g font-size="18" fill="#4b1f24" font-weight="700"><text x="105" y="84">装修</text><text x="285" y="84">组品</text><text x="465" y="84">引流</text><text x="645" y="84">履约</text><text x="795" y="84">复盘</text></g>
     <g stroke="url(#line)" stroke-width="4" fill="none" stroke-linecap="round"><path d="M153 78h84"/><path d="M333 78h84"/><path d="M513 78h84"/><path d="M693 78h54"/><path d="M795 130 C795 158 105 158 105 130"/></g>
     <g fill="#8a4b53" font-size="13"><text x="195" y="55">提高点击</text><text x="375" y="55">提升转化</text><text x="555" y="55">获取订单</text><text x="720" y="55">积累口碑</text></g>
