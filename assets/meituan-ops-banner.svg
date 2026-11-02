@@ -3,9 +3,9 @@
   <desc id="desc">本地生活门店运营方法库品牌横幅</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#5b0f18"/>
-      <stop offset="0.48" stop-color="#e63946"/>
-      <stop offset="1" stop-color="#ff8a65"/>
+      <stop offset="0" stop-color="#8f5700"/>
+      <stop offset="0.48" stop-color="#f5a623"/>
+      <stop offset="1" stop-color="#ffd166"/>
     </linearGradient>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#fff" stop-opacity=".25"/>
@@ -15,12 +15,12 @@
   <rect width="1600" height="420" rx="34" fill="url(#bg)"/>
   <circle cx="1390" cy="-30" r="300" fill="#fff" opacity=".08"/>
   <circle cx="1510" cy="350" r="220" fill="#fff" opacity=".07"/>
-  <path d="M0 300 C260 170 420 390 690 250 S1120 110 1600 220 V420 H0Z" fill="#7d1724" opacity=".38"/>
+  <path d="M0 300 C260 170 420 390 690 250 S1120 110 1600 220 V420 H0Z" fill="#a96e00" opacity=".38"/>
   <rect x="88" y="82" width="90" height="90" rx="24" fill="#fff" opacity=".96"/>
-  <path d="M112 128h42M112 148h28" stroke="#e63946" stroke-width="10" stroke-linecap="round"/>
-  <circle cx="146" cy="108" r="9" fill="#e63946"/>
+  <path d="M112 128h42M112 148h28" stroke="#f5a623" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="146" cy="108" r="9" fill="#f5a623"/>
   <text x="220" y="145" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="54" font-weight="700" fill="#fff">美团运营</text>
-  <text x="224" y="205" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="28" fill="#ffe8e4">知识 · 装修 · 组品 · 流量 · 复盘</text>
+  <text x="224" y="205" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="28" fill="#fff7df">知识 · 装修 · 组品 · 流量 · 复盘</text>
   <rect x="224" y="252" width="500" height="4" rx="2" fill="url(#glow)"/>
   <text x="224" y="310" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" fill="#fff" opacity=".9">把零散资料，变成下一步具体动作</text>
   <g transform="translate(1110 82)" fill="none" stroke="#fff" stroke-width="8" opacity=".9">
