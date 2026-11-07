@@ -1,8 +1,6 @@
 # 美团运营知识与决策助手
 
-<p align="center">
-  <img src="assets/meituan-ops-hero.png" alt="美团运营知识与决策助手" width="100%" style="max-width:100%;height:auto" />
-</p>
+![美团运营知识与决策助手](assets/meituan-ops-hero.png)
 
 <p align="center"><strong>把培训资料，变成可执行的门店增长动作。</strong></p>
 
